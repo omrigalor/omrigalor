@@ -4,9 +4,9 @@ Economist, quantitative researcher, and product builder. I spent four years in M
 
 ## One year of building
 
-**21 public project repositories · 62 AI agents built · 3 patented model families**
+**27 public project repositories · 62 AI agents built · 3 patented model families**
 
-Everything below was built or turned into a working, inspectable public project within one concentrated year. The collection spans econometrics, AI agents, sales systems, finance, medicine, fusion, quantum error correction, energy, economic history, and aerospace simulation.
+Everything below was built or turned into a working, inspectable public project within one concentrated year. The collection spans econometrics, AI agents, sales systems, finance, medicine, climate research, biocomputing, fusion, quantum error correction, energy, lunar resources, economic history, and aerospace simulation.
 
 **[Explore the visual portfolio → omrigalor.com](https://omrigalor.com)**
 
@@ -19,6 +19,7 @@ Everything below was built or turned into a working, inspectable public project 
 | **[Reprium](https://github.com/omrigalor/reprium)** | Turns patented research on cultural distance and relationship longevity into an inspectable compatibility product. |
 | **[Battery MRI](https://github.com/omrigalor/battery-mri)** | Designs the next battery measurement to best distinguish competing degradation explanations. |
 | **[SignalForce](https://github.com/omrigalor/signalforce)** | Converts sourced company research into possible pains, people, products, and questions for a sales call. |
+| **[Venture Sourcing Intelligence Engine](https://github.com/omrigalor/venture-sourcing-intelligence-engine)** | Turns public company pages into provenance-backed signals, deduplicated profiles, and an explainable venture-thesis ranking. |
 | **[Diligence IQ](https://github.com/omrigalor/diligence-iq)** | Structures company materials into an investment review, valuation scenarios, and diligence questions. |
 
 ## Quantitative research and econometrics
@@ -37,6 +38,11 @@ Everything below was built or turned into a working, inspectable public project 
 | Repository | System |
 |---|---|
 | **[Reusable Booster Control](https://github.com/omrigalor/reusable-booster-control)** | A constrained terminal-guidance and stabilization simulation for a reusable launch-vehicle booster. |
+| **[Marine Cloud Brightening Digital Twin](https://github.com/omrigalor/marine-cloud-brightening-digital-twin)** | Compares cloud-albedo research scenarios across detectability, uncertainty, and a cloud-process risk proxy. |
+| **[Stratospheric Aerosol Risk Observatory](https://github.com/omrigalor/stratospheric-aerosol-risk-observatory)** | Ranks reversible research questions by knowledge gain, tail risk, inequality, and governance gates. |
+| **[Adaptive Neurocomputing Benchmark](https://github.com/omrigalor/adaptive-neurocomputing-benchmark)** | Measures temporal memory, sparse events, interface drift, and adaptive recovery in a digital neural reservoir. |
+| **[Mobile Carbon Capture Digital Twin](https://github.com/omrigalor/mobile-carbon-capture-digital-twin)** | Tracks capture, storage saturation, energy penalty, net avoided CO₂, and depot timing across a truck route. |
+| **[Lunar ISRU Autonomy Lab](https://github.com/omrigalor/lunar-isru-autonomy-lab)** | Coordinates lunar excavation, oxygen and metal production, printing, solar power, batteries, dust, and downtime. |
 | **[Fusion Plasma Control](https://github.com/omrigalor/fusion-plasma-control)** | Couples unstable tokamak vertical-position dynamics with constrained burn-temperature control. |
 | **[Quantum Error-Correction Lab](https://github.com/omrigalor/quantum-error-correction-lab)** | Simulates a periodic surface code, decodes stabilizer defects, and measures logical failures. |
 | **[Grid Stability Control](https://github.com/omrigalor/grid-stability-control)** | Tests constrained battery response against generation-loss frequency disturbances across a multi-area grid. |
