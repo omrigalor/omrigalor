@@ -4,9 +4,9 @@ Economist, quantitative researcher, and product builder. I spent four years in M
 
 ## One year of building
 
-**18 public project repositories · 62 AI agents built · 3 patented model families**
+**21 public project repositories · 62 AI agents built · 3 patented model families**
 
-Everything below was built or turned into a working, inspectable public project within one concentrated year. The collection spans econometrics, AI agents, sales systems, finance, medicine, energy, economic history, and aerospace simulation.
+Everything below was built or turned into a working, inspectable public project within one concentrated year. The collection spans econometrics, AI agents, sales systems, finance, medicine, fusion, quantum error correction, energy, economic history, and aerospace simulation.
 
 **[Explore the visual portfolio → omrigalor.com](https://omrigalor.com)**
 
@@ -37,6 +37,9 @@ Everything below was built or turned into a working, inspectable public project 
 | Repository | System |
 |---|---|
 | **[Reusable Booster Control](https://github.com/omrigalor/reusable-booster-control)** | A constrained terminal-guidance and stabilization simulation for a reusable launch-vehicle booster. |
+| **[Fusion Plasma Control](https://github.com/omrigalor/fusion-plasma-control)** | Couples unstable tokamak vertical-position dynamics with constrained burn-temperature control. |
+| **[Quantum Error-Correction Lab](https://github.com/omrigalor/quantum-error-correction-lab)** | Simulates a periodic surface code, decodes stabilizer defects, and measures logical failures. |
+| **[Grid Stability Control](https://github.com/omrigalor/grid-stability-control)** | Tests constrained battery response against generation-loss frequency disturbances across a multi-area grid. |
 | **[Cardiac Flow Visualization](https://github.com/omrigalor/cardiac-flow-visualization)** | Generates right-heart anatomy, valve motion, and illustrative flow from a deterministic Blender/Python pipeline. |
 | **[Fintech Sales Propensity](https://github.com/omrigalor/fintech-sales-propensity)** | Ranks fintech prospects across fit, win likelihood, and value while retaining evidence and uncertainty. |
 | **[LLM Compliance Pipeline](https://github.com/omrigalor/llm-compliance-data-pipeline)** | Generates, judges, deduplicates, and blind-evaluates a QA training set from policy documents. |
