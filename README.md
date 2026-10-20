@@ -4,7 +4,7 @@ Economist, quantitative researcher, and product builder. I spent four years in M
 
 ## One year of building
 
-**17 public project repositories · 62 AI agents built · 3 patented model families**
+**18 public project repositories · 62 AI agents built · 3 patented model families**
 
 Everything below was built or turned into a working, inspectable public project within one concentrated year. The collection spans econometrics, AI agents, sales systems, finance, medicine, energy, economic history, and aerospace simulation.
 
@@ -38,9 +38,10 @@ Everything below was built or turned into a working, inspectable public project 
 |---|---|
 | **[Reusable Booster Control](https://github.com/omrigalor/reusable-booster-control)** | A constrained terminal-guidance and stabilization simulation for a reusable launch-vehicle booster. |
 | **[Cardiac Flow Visualization](https://github.com/omrigalor/cardiac-flow-visualization)** | Generates right-heart anatomy, valve motion, and illustrative flow from a deterministic Blender/Python pipeline. |
-| **[GTM Target Scoring](https://github.com/omrigalor/gtm-target-scoring)** | Ranks fintech prospects across fit, win likelihood, and value while retaining evidence and uncertainty. |
+| **[Fintech Sales Propensity](https://github.com/omrigalor/fintech-sales-propensity)** | Ranks fintech prospects across fit, win likelihood, and value while retaining evidence and uncertainty. |
 | **[LLM Compliance Pipeline](https://github.com/omrigalor/llm-compliance-data-pipeline)** | Generates, judges, deduplicates, and blind-evaluates a QA training set from policy documents. |
 | **[AI Agent Portfolio](https://github.com/omrigalor/ai-agent-portfolio)** | Runnable recruiting, referral-intake, denial-prevention, reimbursement, and sales-agent examples. |
+| **[Calorie & Deficit Planner](https://github.com/omrigalor/calorie-deficit-planner)** | Turns a goal and daily activity into a local-only calorie, macro, and time-to-goal planning view. |
 
 ## How I build
 
