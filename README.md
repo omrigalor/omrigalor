@@ -14,7 +14,7 @@ Everything below was built or turned into a working, inspectable public project 
 
 | Project | What it does—in plain English |
 |---|---|
-| **[SAPIENS-Web](https://github.com/omrigalor/sapiens-web)** | Models how online interaction unfolds: cursor movement, attention, session depth, and breaks. |
+| **[Stochastic Action and Pointer Interaction Engine for Naturalistic Sessions](https://github.com/omrigalor/stochastic-action-and-pointer-interaction-engine-for-naturalistic-sessions)** | Models how online interaction unfolds: cursor movement, attention, session depth, and breaks. |
 | **[Salesforce Account Propensity](https://github.com/omrigalor/salesforce-account-propensity)** | Ranks enterprise accounts by likely Salesforce product fit and shows the evidence behind each hypothesis. |
 | **[Reprium](https://github.com/omrigalor/reprium)** | Turns patented research on cultural distance and relationship longevity into an inspectable compatibility product. |
 | **[Battery MRI](https://github.com/omrigalor/battery-mri)** | Designs the next battery measurement to best distinguish competing degradation explanations. |
