@@ -1,10 +1,10 @@
 # Omri Galor
 
-Economist, quantitative researcher, and product builder. I spent four years in Model Risk at Deutsche Bank evaluating what models actually establish and where they fail, then moved into venture investing, founded [Reprium](https://github.com/omrigalor/reprium), and began building research systems end to end.
+Economist, quantitative researcher, and product builder. I spent four years in Model Risk at Deutsche Bank evaluating what models actually establish and where they fail, then moved into venture investing, founded a relationship-research product, and began building research systems end to end.
 
 ## One year of building
 
-**27 public project repositories · 62 AI agents built · 3 patented model families**
+**28 public project repositories · 62 AI agents built · 3 patented model families**
 
 Everything below was built or turned into a working, inspectable public project within one concentrated year. The collection spans econometrics, AI agents, sales systems, finance, medicine, climate research, biocomputing, fusion, quantum error correction, energy, lunar resources, economic history, and aerospace simulation.
 
@@ -16,37 +16,38 @@ Everything below was built or turned into a working, inspectable public project 
 |---|---|
 | **[Stochastic Action and Pointer Interaction Engine for Naturalistic Sessions](https://github.com/omrigalor/stochastic-action-and-pointer-interaction-engine-for-naturalistic-sessions)** | Models how online interaction unfolds: cursor movement, attention, session depth, and breaks. |
 | **[Salesforce Account Propensity](https://github.com/omrigalor/salesforce-account-propensity)** | Ranks enterprise accounts by likely Salesforce product fit and shows the evidence behind each hypothesis. |
-| **[Reprium](https://github.com/omrigalor/reprium)** | Turns patented research on cultural distance and relationship longevity into an inspectable compatibility product. |
+| **[Relationship Compatibility Evidence Engine](https://github.com/omrigalor/relationship-compatibility-evidence-engine)** | Turns cultural-distance and relationship-longevity research into an inspectable compatibility product. |
 | **[Battery MRI](https://github.com/omrigalor/battery-mri)** | Designs the next battery measurement to best distinguish competing degradation explanations. |
-| **[SignalForce](https://github.com/omrigalor/signalforce)** | Converts sourced company research into possible pains, people, products, and questions for a sales call. |
-| **[Venture Sourcing Intelligence Engine](https://github.com/omrigalor/venture-sourcing-intelligence-engine)** | Turns public company pages into provenance-backed signals, deduplicated profiles, and an explainable venture-thesis ranking. |
-| **[Diligence IQ](https://github.com/omrigalor/diligence-iq)** | Structures company materials into an investment review, valuation scenarios, and diligence questions. |
+| **[Sales Research-to-Conversation Engine](https://github.com/omrigalor/sales-research-to-conversation-engine)** | Converts sourced company research into possible pains, people, products, and questions for a sales call. |
+| **[Venture Sourcing Intelligence Engine](https://github.com/omrigalor/venture-sourcing-intelligence-engine)** | Combines stochastic session pacing, permitted-page research, provenance-backed signals, deduplication, and explainable venture-thesis ranking. |
+| **[AI Investment Diligence Workspace](https://github.com/omrigalor/ai-investment-diligence-workspace)** | Structures company materials into an investment review, valuation scenarios, and diligence questions. |
 
 ## Quantitative research and econometrics
 
 | Repository | Model |
 |---|---|
-| **[Cultural Distance Models](https://github.com/omrigalor/cultural-distance-models)** | The standalone quadratic model layer behind the Reprium research program. |
+| **[Cultural Distance Outcome Models](https://github.com/omrigalor/cultural-distance-models)** | Standalone quadratic specifications for relationship and family-outcome research. |
 | **[Augmented Synthetic Control](https://github.com/omrigalor/augmented-synthetic-control)** | Builds a counterfactual from weighted untreated units and tests the result with placebos. |
 | **[Staggered Adoption Lab](https://github.com/omrigalor/staggered-adoption-lab)** | Estimates event studies when cities, firms, or countries adopt a policy at different times. |
 | **[Structural Auction Lab](https://github.com/omrigalor/structural-auction-lab)** | Recovers latent bidder values from first-price bids and tests reserve-price counterfactuals. |
 | **[Financial Contagion Lab](https://github.com/omrigalor/financial-contagion-lab)** | Simulates how payment shortfalls propagate through a network of financial institutions. |
-| **[Journey of Humanity](https://github.com/omrigalor/journey-of-humanity-simulation)** | Runs 300,000 years of economic-development mechanisms as a deterministic teaching simulation. |
+| **[Long-Run Development Dynamics Simulator](https://github.com/omrigalor/long-run-development-dynamics-simulator)** | Runs 300,000 years of economic-development mechanisms as a deterministic teaching simulation. |
 
 ## Engineering and scientific systems
 
 | Repository | System |
 |---|---|
 | **[Reusable Booster Control](https://github.com/omrigalor/reusable-booster-control)** | A constrained terminal-guidance and stabilization simulation for a reusable launch-vehicle booster. |
-| **[Marine Cloud Brightening Digital Twin](https://github.com/omrigalor/marine-cloud-brightening-digital-twin)** | Compares cloud-albedo research scenarios across detectability, uncertainty, and a cloud-process risk proxy. |
+| **[Marine Cloud Albedo Research Simulator](https://github.com/omrigalor/marine-cloud-albedo-research-simulator)** | Compares cloud-albedo research scenarios across detectability, uncertainty, and a cloud-process risk proxy. |
 | **[Stratospheric Aerosol Risk Observatory](https://github.com/omrigalor/stratospheric-aerosol-risk-observatory)** | Ranks reversible research questions by knowledge gain, tail risk, inequality, and governance gates. |
 | **[Adaptive Neurocomputing Benchmark](https://github.com/omrigalor/adaptive-neurocomputing-benchmark)** | Measures temporal memory, sparse events, interface drift, and adaptive recovery in a digital neural reservoir. |
-| **[Mobile Carbon Capture Digital Twin](https://github.com/omrigalor/mobile-carbon-capture-digital-twin)** | Tracks capture, storage saturation, energy penalty, net avoided CO₂, and depot timing across a truck route. |
+| **[Mobile Carbon Capture Systems Simulator](https://github.com/omrigalor/mobile-carbon-capture-systems-simulator)** | Tracks capture, storage saturation, energy penalty, net avoided CO₂, and depot timing across a truck route. |
 | **[Lunar ISRU Autonomy Lab](https://github.com/omrigalor/lunar-isru-autonomy-lab)** | Coordinates lunar excavation, oxygen and metal production, printing, solar power, batteries, dust, and downtime. |
 | **[Fusion Plasma Control](https://github.com/omrigalor/fusion-plasma-control)** | Couples unstable tokamak vertical-position dynamics with constrained burn-temperature control. |
 | **[Quantum Error-Correction Lab](https://github.com/omrigalor/quantum-error-correction-lab)** | Simulates a periodic surface code, decodes stabilizer defects, and measures logical failures. |
 | **[Grid Stability Control](https://github.com/omrigalor/grid-stability-control)** | Tests constrained battery response against generation-loss frequency disturbances across a multi-area grid. |
-| **[Cardiac Flow Visualization](https://github.com/omrigalor/cardiac-flow-visualization)** | Generates right-heart anatomy, valve motion, and illustrative flow from a deterministic Blender/Python pipeline. |
+| **[Adaptive Volumetric Light-Field Synthesis](https://github.com/omrigalor/adaptive-volumetric-light-field-synthesis)** | Optimizes one phase-only hologram across multiple focal depths and reports error, crosstalk, efficiency, and speckle. |
+| **[Geroscience Intervention Evidence Engine](https://github.com/omrigalor/geroscience-intervention-evidence-engine)** | Ranks longevity hypotheses across evidence quality, translation, safety, uncertainty, and source robustness. |
 | **[Fintech Sales Propensity](https://github.com/omrigalor/fintech-sales-propensity)** | Ranks fintech prospects across fit, win likelihood, and value while retaining evidence and uncertainty. |
 | **[LLM Compliance Pipeline](https://github.com/omrigalor/llm-compliance-data-pipeline)** | Generates, judges, deduplicates, and blind-evaluates a QA training set from policy documents. |
 | **[AI Agent Portfolio](https://github.com/omrigalor/ai-agent-portfolio)** | Runnable recruiting, referral-intake, denial-prevention, reimbursement, and sales-agent examples. |
